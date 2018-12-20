@@ -1,0 +1,120 @@
+body
+{
+    margin: 0em; margin-top 0em;
+}
+
+header
+{
+    background-color: white;
+    margin-top: -1em;
+    height: 4em;
+
+}
+
+nav
+{
+    height:5em;
+}
+
+nav ul
+{
+    list-style-type: none;
+    text-align:center;
+    padding-top: 2em;
+    padding-right: 3.5em
+}
+
+nav li
+{
+    display: inline;
+    padding: 0.2em;
+}
+
+nav li a
+{
+    color: #5A5A5A;
+    font-family: museo-sans, sans-serif;
+    text-align: center;
+    font-size: 0.7em;
+    padding-right: 2em;
+}
+
+nav img
+{
+    height: 3em;
+    width: 3em;
+    float: left;
+    margin-top: -1.5em;
+    margin-left: -1.5em;
+}
+
+.introductie
+{
+    background-image: linear-gradient(#4C0565, #A60086);
+    height: 13.3em;
+    padding-top; 10em;
+    border-top-color: #FFDF5D;
+    border-top-style: solid;
+    border-top-width: thin;
+    margin-left: 0.8em;
+    margin-right: 0.8em;
+    box-shadow: 5px 6px #F2F1F2;
+}
+
+.introductie > h1
+{
+    font-family: museo-sans, sans-serif;
+    text-decoration-line: underline;
+    text-decoration-color: #FFDF5D;
+    font-size: 1.3em;
+    text-align: center;
+    margin-top:0;
+    padding-top:1em;
+    color: white;
+}
+
+.introductie p
+{
+    font-family: museo-sans, sans-serif;
+    font-size: 0.76em;
+    font-weight: 2        00;
+    text-align: center;
+    margin-top: 2em;
+    padding-top: 0;
+    color: white;
+}
+
+.introductie img {
+    height: 2.6em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.6em;
+}
+
+.verhalenoverzicht
+{
+    background-color: white;
+    height: 30em
+}
+
+.verhaal1 img
+{
+    height:13em;
+    width: 9.5em;
+    border: solid 0.1em;
+    border-color: #88AFAF;
+    margin-left: 1.6em;
+    margin-top: 0.5em;
+}
+.verhaal2 img
+{
+    height:13em;
+    width: 9.5em;
+    border: solid 0.1em;
+    border-color: #88AFAF;
+    margin-left: 11.4em;
+}
+
+
+
